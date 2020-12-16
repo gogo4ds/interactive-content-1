@@ -1,6 +1,6 @@
 [slide hideTitle]
 # Problem: Edited from gogo4ds Basic Stack Operations
-[code-task title="2222222Basic Stack Operations" taskId="10bea7e5-eab5-4110-828f-ec56851bb090" executionType="tests-execution" executionStrategy="java-code" requiresInput]
+[code-task title="Basic Stack Operations" taskId="10bea7e5-eab5-4110-828f-ec56851bb090" executionType="tests-execution" executionStrategy="java-code" requiresInput]
 [code-editor language=java]
 ```
 import java.util.Scanner;
