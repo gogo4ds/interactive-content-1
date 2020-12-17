@@ -51,7 +51,7 @@ Just put the input numbers in the stack and pop them.
 [/test]
 [test]
 [input]
-1
+2
 [/input]
 [output]
 1
