@@ -1,5 +1,5 @@
 [slide]
-# EDITED FROM PARTIAL SYNC* Algorithmic Complexity
+# Algorithmic Complexity
 
 **Algorithm complexity** is a **measure** which evaluates the order of the **count of operations**, performed by a given algorithm as a function of the size of the input data.
 
