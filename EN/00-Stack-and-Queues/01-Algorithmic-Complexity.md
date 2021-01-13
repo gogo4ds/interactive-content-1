@@ -3,6 +3,8 @@
 
 **Algorithm complexity** is a **measure** which **EDITED FROM PARTIAL SYNC 4** evaluates the order of the **count of operations**, performed by a given algorithm as a function of the size of the input data.
 
+[image assetsSrc="Hibernate.jpg" /]
+
 In other words, **complexity** is a rough **approximation of the number of steps** necessary to execute an algorithm.
 
 When we evaluate complexity we speak of **order of operation count**, not of their exact count.
