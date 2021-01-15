@@ -1014,7 +1014,7 @@ Submit your query statement as Run skeleton, **run queries & check DB in Judge**
 | **id** | **recipient** | **subject** | **body** |
 | --- | --- | --- | --- |
 | 1 | 1 | Balance change for account: 1 | On Sep 15 2016 at 11:44:06 AM your balance was changed from 133 to 143. |
-| ... | ... | ... | ... |
+| … | … | … | … |
 |  |  |  |  |
 
 
