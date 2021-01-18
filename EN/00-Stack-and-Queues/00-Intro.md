@@ -33,5 +33,6 @@ class Dice {
     - Filtering
     - Mapping
     - Ordering
-
 [/slide]
+
+
