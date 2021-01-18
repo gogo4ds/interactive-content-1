@@ -1,8 +1,6 @@
 [slide]
 # Summary
 
-## In this lesson you learned:
-
 - Classes define templates for object 
     - Fields
     - Constructors
