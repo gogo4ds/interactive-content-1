@@ -1,6 +1,8 @@
 [slide]
 # Summary
 
+## In this lesson you learned:
+
 In this lesson we learned: 
 
 - What is Coding
@@ -24,3 +26,5 @@ In the next lesson we will learn:
 - How to perform simple operations
 
 [/slide]
+
+
