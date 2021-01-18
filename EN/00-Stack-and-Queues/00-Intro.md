@@ -1,38 +1,26 @@
 [slide]
 # Summary
 
-## In this lesson you learned:
+In this lesson we learned: 
 
-- Classes define templates for object 
-    - Fields
-    - Constructors
-    - Properties
-    - Methods
-- Objects hold a set of named values
-``` java
-LocalDate birthday = 
-LocalDate.of(2018, 5, 5);
-System.out.println(birthday);
-```
-    - Instance of a class
+- What is Coding
 
-``` java
-class Dice {
-  …
-}
-```
+- How to **write basic code**
 
-## In the next lesson, you will learn:
+- A program consists of **sequences of commands**
 
-- Associative Arrays - Maps
-    - `HashMap <key, value>`
-    - `LinkedHashMap <key, value>`
-    - `TreeMap <key, value>`
-- Lambda Expressions
-- Stream API
-    - Filtering
-    - Mapping
-    - Ordering
+- How to **install** run **IntelliJ**
+
+- How to create a project, files, and simple applications in IntelliJ
+
+In the next lesson we will learn:
+
+- Data Types
+
+- What are Statements
+
+- How to read and print the user's input
+
+- How to perform simple operations
+
 [/slide]
-
-
