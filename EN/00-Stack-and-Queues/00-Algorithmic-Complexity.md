@@ -5,6 +5,8 @@
 
 [image assetsSrc="Hibernate.jpg" /]
 
+[video src="https://my-video-source.com" catalog="kur" kur="debel" /]
+
 In other words, **complexity** is a rough **approximation of the number of steps** necessary to execute an algorithm.
 
 When we evaluate complexity we speak of **order of operation count**, not of their exact count.
