@@ -1,0 +1,12 @@
+[slide]
+# Algorithmic Complexity
+
+[meta sectionId="qwer" /]
+
+[vimeo-video src="https://vimeo-video-source.com" catalog="kur" kur="debel" /]
+
+[image assetsSrc="Hibernate.jpg" /]
+
+[video src="https://my-video-source.com" poster="kur" kur="debel" /]
+
+[/slide]
