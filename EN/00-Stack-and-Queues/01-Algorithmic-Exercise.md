@@ -1,6 +1,6 @@
 // sectionId: "qwe"
 
 [slide]
-# Algorithmic Complexity
+# Algorithmic Complexity Exercise
 
 [/slide]
